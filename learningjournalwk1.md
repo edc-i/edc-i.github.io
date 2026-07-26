@@ -43,7 +43,7 @@ My long-term goal is to explore how connected and well-structured data can suppo
 
 Most importantly, I want to learn how to build these kinds of solutions without compromising the accuracy, security, or integrity of the existing data. 
 
-## *What I Learned This Week*
+## *What I Learned This Week* ![Week 1 Python Practice](week1-python-practice.png)
 
 One of my biggest takeaways from Week 1 is that learning Data and AI starts with strong foundations. I learned how Data Analytics, Data Science, Machine Learning, Deep Learning, and AI are connected, while also building my understanding of Python concepts such as data types, indexing, slicing, and logical operators.
 
