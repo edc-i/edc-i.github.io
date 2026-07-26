@@ -25,7 +25,7 @@ What interests me most about Data and AI is how they can connect different piece
 
 In my work, I can sometimes see the problem from several angles. A user might report an issue, a client might describe a different experience, testing might reveal something unexpected, and the product itself may be generating data that tells another part of the story.
 
-I want to learn how data can bring those pieces together. 
+I want to learn how data can bring those pieces together.
 
 Instead of only knowing what happened, I want to eventually understand why it happened, identify patterns, predict what could happen next, and determine what action could help improve the experience. 
 
